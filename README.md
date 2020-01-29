@@ -5,7 +5,7 @@ I was fascinated by the concept of Image Annotation and therefore wanted to try 
 open source implementation of my own Image Annotation Algorithm which uses the Mobile Net as it core Deep Neural Network Architecture and
 TDIDF for word processing( this is just the alpha stage , I will be working to use more sophiscated techniques)
 
-<h1>Getting Started-Detailed Simple Step to Run the Algorithm</h1>
+<h1>Getting Started-Detailed Simple Steps to Run the Algorithm</h1>
 
 To get started,simply clone the repository into a folder. There are seven scripts since this is work in progress, Preprocessing-Counter(BOWs)
 is empty(An Different Apporach which I am trying).
